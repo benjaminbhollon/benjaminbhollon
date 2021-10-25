@@ -51,9 +51,6 @@ const benjamin = {
       frameworks: [
         'MySQL'
       ],
-      projects: [
-        'None on Github'
-      ],
       confidence: 0.85
     }
     {
