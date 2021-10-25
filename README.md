@@ -1,7 +1,7 @@
 ```js
 const benjamin = {
   greeting: () => {
-    return 'Howdy! Nice to meet you!;
+    return 'Howdy! Nice to meet you!';
   },
   status: 'awesome',
   hobbies: [
@@ -52,7 +52,7 @@ const benjamin = {
         'MySQL'
       ],
       confidence: 0.85
-    }
+    },
     {
       name: 'Python',
       frameworks: [
