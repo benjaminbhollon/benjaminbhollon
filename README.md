@@ -70,19 +70,29 @@ const benjamin = {
   ],
   links: [
     {
+      href: 'https://benjaminhollon.com',
+      description: 'Personal Website',
+      repo: 'benjaminbhollon/personal-website'
+    },
+    {
       href: 'https://seewitheyesclosed.com',
-      description: 'Personal Website and Blog',
+      description: 'Blog',
       repo: 'benjaminbhollon/see-with-eyes-closed'
     },
     {
-      href: 'https://goodreads.com/bibliobone',
-      description: 'Goodreads Profile',
+      href: 'https://fosstodon.org/@benjaminhollon',
+      description: 'Mastodon',
       repo: undefined
     },
     {
       href: 'https://verboseguacamole.com',
       description: 'Self-coded Novel Editor',
       repo: 'benjaminbhollon/verboseguacamole.com'
+    },
+    {
+      href: 'https://kesslercascades.com',
+      description: 'School project on space junk',
+      repo: 'benjaminbhollon/kessler-cascades'
     }
   ],
   farewell: () => {
